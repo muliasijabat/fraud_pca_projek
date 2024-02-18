@@ -1,0 +1,1 @@
+Projek ini  bertujuan untuk melakukan Feature Reduction atau mereduksi fitur dengan metode PCA serta melakukan modeling dengan algoritma Random Forest Clasiffier dan melakukan evaluasi model tersebut untuk melihat bagaimana performa Machine Learning sebelum dan setelah dilakukan reduksi dengan PCA. 
